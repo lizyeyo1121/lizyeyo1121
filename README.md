@@ -1,9 +1,12 @@
-<p align="center">
-  <img src="54765436543654.jpg" width="500x" align="center" alt="Liz's Profile Banner">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Liz.</h1>
+# lizyeyo1121.
 
-<p align="center">
-  Junior developer · Music · Driving
-</p>
+**Junior Developer**
+
+---
+
+![HTML5](https://img.shields.io/badge/HTML5-777777?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-777777?logo=javascript&logoColor=white)
+
+</div>
